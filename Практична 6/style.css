@@ -1,0 +1,34 @@
+a {
+    text-decoration: none;
+  }
+    #col:link{
+    color:red;
+   }
+    #col:visited{
+    color:purple;
+   }
+    #colo:link{
+        color: green;
+    }
+    #colo:visited{
+        color:rgb(171, 101, 241);
+    }
+    #color:link{
+        color: rgb(132, 20, 20);
+    }
+    #color:visited{
+        color:rgb(185, 44, 131);
+    }
+    #colore:link{
+      color:rgb(94, 120, 188);
+    }
+    #colore:visited{
+      color:rosybrown;
+    }
+
+    h1{
+font-size: 24px;
+text-align: center;
+
+    }
+   
